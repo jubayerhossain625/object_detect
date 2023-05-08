@@ -1,0 +1,7 @@
+0 calculator
+1 headphone
+2 mobile
+3 hairbrush
+4 sunglass
+5 man
+6 non
